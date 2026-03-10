@@ -1,4 +1,4 @@
-# Home Crew QuoteOS
+# QuoteOS
 
 Internal quote operating system for a residential repair / handyman business.
 
