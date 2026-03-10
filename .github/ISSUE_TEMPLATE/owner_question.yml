@@ -1,0 +1,22 @@
+name: Owner Question
+description: Business decision needed
+title: "[OWNER QUESTION] "
+labels: ["needs-owner"]
+body:
+  - type: textarea
+    attributes:
+      label: Problem
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Options
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Recommended Option
+    validations:
+      required: true

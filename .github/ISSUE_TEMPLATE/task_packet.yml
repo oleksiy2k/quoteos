@@ -1,0 +1,34 @@
+name: Task Packet
+description: Development task for implementation
+title: "[TASK] "
+labels: ["state:new"]
+body:
+  - type: textarea
+    attributes:
+      label: Goal
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Inputs
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Constraints
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Deliverables
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Verification
+    validations:
+      required: true
